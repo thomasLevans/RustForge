@@ -1,0 +1,12 @@
+[package]
+name = "rust_forge"
+version = "0.1.0"
+authors = ["Tom Evans"]
+
+[dependencies]
+bson = "*"
+mongodb = "*"
+hyper = "*"
+iron = "*"
+router = "*"
+rustc-serialize = "*"
